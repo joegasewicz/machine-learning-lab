@@ -24,6 +24,6 @@
 
 #### Interquartile Range
 - Divide the data into equal groups & see how far apart the extreme groups are.
-- Q1 is the median of the lows / Q3is the median of the highs
+- Q1 is the median of the lows / Q3 is the median of the highs
 
 $IQR = Q3 - Q1$
