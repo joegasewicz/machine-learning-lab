@@ -13,4 +13,6 @@ $$
 - e.g If we have `5 7 3 38 7`
   - Arrange the data in order from smallest to largest - `3 5 7 7 38`
 - Of the number of points is even (there is no middle number)
-then average 2 values around the middle. $\frac{5+7}{2} = 6$
+then average 2 values around the middle. e.g `3 5 7 7`
+
+$\frac{5+7}{2} = 6$
