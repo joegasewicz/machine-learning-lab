@@ -1,4 +1,5 @@
-### Algorithms
+# Algorithms
+
 1. Linear Regression
 2. Cross Validation & Bias Variance Trade-Off
 3. Logistic Regression

@@ -1,5 +1,5 @@
-### Core Concepts
+# Core Concepts
 
-- Supervised Learning
-- Classification
+1. Supervised Learning
+2. Classification
 
