@@ -2,7 +2,14 @@
 
 1. [Supervised Learning](supervised_learning.ipynb)
 2. [Classification Error Metrics](classification_error_metrics.ipynb)
+- Accuracy
+- Recall
+- Precision
+- F1 Score
 3. [Regression Error Metrics](regression_error_metrics.ipynb)
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Square Error (RMSE)
 
 ### Confusion Matrix Example:
 
