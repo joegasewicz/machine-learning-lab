@@ -1,6 +1,6 @@
 # Algorithms
 
-1. [Linear Regression](algorithms/linear_regression.ipynb)
+1. [Linear Regression](linear_regression.ipynb)
 2. Cross Validation & Bias Variance Trade-Off
 3. Logistic Regression
 4. K Nearest Neighbors
