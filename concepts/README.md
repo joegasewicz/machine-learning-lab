@@ -1,8 +1,8 @@
 # Core Concepts
 
-1. [Supervised Learning](SUPERVICED_LEARNING.MD)
-2. [Classification Error Metrics](CLASSIFICATION_ERROR_METRICS.MD)
-3. [Regression Error Metrics](REGRESSION_ERROR_METRICS.MD)
+1. [Supervised Learning](supervised_learning.ipynb)
+2. [Classification Error Metrics](classification_error_metrics.ipynb)
+3. [Regression Error Metrics](regression_error_metrics.ipynb)
 
 ### Confusion Matrix Example:
 
