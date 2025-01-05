@@ -5,6 +5,7 @@
 - [Concepts](concepts/README.md)
 - [Maths](maths/README.md)
 - [Python](python/README.md)
+- [Data Engineering](data-engineering/README.md)
 - [Statistics](statistics/README.md)
 - [Tools](tools/README.md)
 
