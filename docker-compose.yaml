@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+    environment:
+      - OLLAMA_MODELS=mistral
+    entrypoint: /bin/sh
+    command: -c "ollama serve & sleep 2 && ollama pull mistral && wait"
+
+
+volumes:
+  ollama_data:
