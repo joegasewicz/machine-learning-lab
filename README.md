@@ -1,4 +1,4 @@
-# Machine Learning Study Notebook
+# Machine Learning Lab
 
 ### Topics
 - [Algorithms](algorithms)
